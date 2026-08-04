@@ -1,2 +1,4 @@
-# javascript-calc-63
+# Javascript Calc 63
+
 Four-function inline calculator in JavaScript.
+
